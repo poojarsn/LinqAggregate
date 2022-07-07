@@ -1,0 +1,7 @@
+C:\Users\spoojari\source\Practice\DesignPattern.Linq.Aggregation\Linq Aggregation\obj\Debug\Linq Aggregation.csproj.AssemblyReference.cache
+C:\Users\spoojari\source\Practice\DesignPattern.Linq.Aggregation\Linq Aggregation\obj\Debug\Linq Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\spoojari\source\Practice\DesignPattern.Linq.Aggregation\Linq Aggregation\bin\Debug\Linq Aggregation.exe.config
+C:\Users\spoojari\source\Practice\DesignPattern.Linq.Aggregation\Linq Aggregation\bin\Debug\Linq Aggregation.exe
+C:\Users\spoojari\source\Practice\DesignPattern.Linq.Aggregation\Linq Aggregation\bin\Debug\Linq Aggregation.pdb
+C:\Users\spoojari\source\Practice\DesignPattern.Linq.Aggregation\Linq Aggregation\obj\Debug\Linq Aggregation.exe
+C:\Users\spoojari\source\Practice\DesignPattern.Linq.Aggregation\Linq Aggregation\obj\Debug\Linq Aggregation.pdb
